@@ -7,7 +7,7 @@ The dashboard is designed to provide insights into sales performance, helping us
 
 ## 📷 Dashboard Screenshot
 
-![Dashboard Screenshot](car_dashboard.png)
+![Dashboard Screenshot](car_dashboard.png.png)
 
 ---
 
